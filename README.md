@@ -6,6 +6,7 @@ This repository demonstrates the usage of grep command.
 
 - [Content](#Content)
 - [Help Menu](#Help-Menu)
+- [Useful Flags](#Useful-Flag)
 
 ## Help Menu
 
@@ -80,4 +81,31 @@ if any error occurs and -q is not given, the exit status is 2.
 Report bugs to: bug-grep@gnu.org
 GNU grep home page: <http://www.gnu.org/software/grep/>
 General help using GNU software: <http://www.gnu.org/gethelp/>
+```
+
+## Useful Flags
+
+**Extended REGEX**  
+```bash
+grep -E
+```
+
+**Invert Match**  
+```bash
+grep -v
+```
+
+**Case Ignore**  
+```bash
+grep -i
+```
+
+**Files with Matches**  
+```bash
+grep -l
+```
+
+**Files without Matches**  
+```bash
+grep -L
 ```
