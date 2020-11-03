@@ -1,2 +1,4 @@
-# linux-grep
-This repository demonstrates the usage of grep command.
+# Linux Grep
+
+This repository demonstrates the usage of grep command.  
+
