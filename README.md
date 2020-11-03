@@ -6,7 +6,7 @@ This repository demonstrates the usage of grep command.
 
 - [Content](#Content)
 - [Help Menu](#Help-Menu)
-- [Useful Flags](#Useful-Flag)
+- [Useful Flags](#Useful-Flags)
 
 ## Help Menu
 
